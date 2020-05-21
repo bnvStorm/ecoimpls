@@ -88,6 +88,7 @@ Theme URI: http://markhorthemes.com/html/demo/vicin/
 body {
   font-weight: 400;
   margin: 0;
+  background-image: url('../images/back-font.jpg');
 }
 
 .blue #footer h3:before {
@@ -105,7 +106,9 @@ body {
 .blue .socail-network a:hover {
   color: #3caee9;
 }
-
+.socail-network a:hover{
+  color:#fff !important;
+}
 a:hover, a:focus, a.active {
   text-decoration: none;
   outline: none;
@@ -160,7 +163,7 @@ a:hover, a:focus, a.active {
 }
 
 .bg-light-grey {
-  background: #fbfbfb;
+  /* background: #fbfbfb; */
 }
 
 .bg-grey {
@@ -192,6 +195,9 @@ a:hover, a:focus, a.active {
 }
 #header.style2 .contact-list {
   font-weight: 600;
+}
+#header.style2 .contact-list a:hover{
+  color:#fff;
 }
 #header.style2 .contact-list .icon {
   font-size: 14px;
