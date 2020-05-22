@@ -202,7 +202,7 @@ a:hover, a:focus, a.active {
 #header.style2 .contact-list .icon {
   font-size: 14px;
   margin: 0 11px 0 1px;
-  color: #111;
+  color: #fff;
 }
 #header.style3 .header-holder {
   background: #fff;
@@ -259,7 +259,7 @@ a:hover, a:focus, a.active {
 }
 #header .contact-list a {
   transition: all 0.25s linear;
-  color: #111;
+  color: #fff;
   letter-spacing: 1px;
 }
 #header .contact-list .icon {
@@ -310,7 +310,7 @@ a:hover, a:focus, a.active {
 -------------------------------------------------------------------*/
 .logo {
   width: 100%;
-  max-width: 200px;
+  max-width: 100px;
   float: left;
   margin: 0 10px 0 0;
 }
@@ -697,7 +697,7 @@ a:hover, a:focus, a.active {
 }
 .socail-network a {
   display: block;
-  color: #111;
+  color: #fff;
   transition: all 0.25s linear;
 }
 
@@ -3332,6 +3332,7 @@ a:hover, a:focus, a.active {
 -------------------------------------------------------------------*/
 #footer {
   overflow: hidden;
+  color:#fff;
 }
 #footer .footer-holder {
   padding: 76px 0 63px;
@@ -3437,7 +3438,10 @@ a:hover, a:focus, a.active {
 #footer .footer-area {
   padding: 10px 0 14px;
   overflow: hidden;
-  background: #000;
+    background: url('../images/head/footer.jpg');
+background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 #footer .footer-area p {
   margin: 0;
@@ -3904,4 +3908,12 @@ a:hover, a:focus, a.active {
   background: url("images/polina.jpg") no-repeat;
   background-size: cover;
   transition: 1s opacity;
+}
+#header.style2 .header-area{
+    background: url('../images/head/head0.jpg');
+    -webkit-background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -ms-background-position-x: center;
+    background-position-x: center;
 }
