@@ -248,7 +248,7 @@ a:hover, a:focus, a.active {
   padding: 33px 0 30px;
 }
 #header .contact-list {
-  float: left;
+  float: right;
   overflow: hidden;
   margin: 0;
   color: #111;
@@ -267,7 +267,7 @@ a:hover, a:focus, a.active {
   margin: 0 5px 0 0;
 }
 #header .socail-network {
-  float: right;
+  float: left;
 }
 #header .sign-up {
   overflow: hidden;
