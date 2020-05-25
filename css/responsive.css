@@ -36,7 +36,7 @@
     bottom: 250px;
   }
   .main-slider .slide {
-    padding: 245px 0 30px;
+    padding: 325px 0 30px;
   }
   .service-sec.service2 {
     padding: 90px 0;
@@ -920,6 +920,11 @@
   }
   .service-sec .service .over {
     top: 95px;
+    min-height: 230px;
+    padding: 0 10px;
+  }
+  .service-sec .service{
+     min-height: 230px;
   }
 }
 
@@ -929,5 +934,16 @@
   }
   .service-sec .service .over {
     top: 2%;
+  }
+  .testimonail-sec .testimonail-slider .slide{
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+ .service-sec .service {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
   }
 }

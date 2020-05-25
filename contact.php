@@ -9,7 +9,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 text-center">
-							<h1 class="main-heading3 text-uppercase">Прием оборудования</h1>
+							<h1 class="main-heading3 text-uppercase">Контакты</h1>
 							<!-- breadcrumbs of the page -->
 							<!-- <nav class="breadcrumbs text-center">
 								<ul class="list-unstyled">

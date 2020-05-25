@@ -88,7 +88,9 @@ Theme URI: http://markhorthemes.com/html/demo/vicin/
 body {
   font-weight: 400;
   margin: 0;
-  background-image: url('../images/back-font.jpg');
+  background-image: url('../images/back-font2.jpg');
+  -webkit-background-size: contain;
+  background-size: contain;
 }
 
 .blue #footer h3:before {

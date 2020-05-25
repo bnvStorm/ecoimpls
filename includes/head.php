@@ -37,16 +37,19 @@
 								<a href="/"><img src="images/logo1.png" alt="ecoimpulse" class="img-responsive"></a>
 							</div>
 						
-							<!-- socail network of the page -->
-							<ul class="socail-network list-unstyled">
-								<li><a href="#" class="social_facebook"></a></li>
-								<li><a href="#" class="fa fa-instagram"></a></li>
-							</ul>
+						<div class="head-info">
+							
 							<!-- contact list of the page -->
 							<ul class="contact-list list-unstyled">
 								<li><i class="icon icon_phone"></i> <a href="tel:+77082501252">+7 (708) 250 1252</a></li>
 								<li><i class="icon icon_mail"></i> <a href="mailto:too_ecoimpulse@mail.ru">too_ecoimpulse@mail.ru</a></li>
 							</ul>
+									<!-- socail network of the page -->
+							<ul class="socail-network list-unstyled">
+								<li><a href="#" class="social_facebook"></a></li>
+								<li><a href="#" class="fa fa-instagram"></a></li>
+							</ul>
+						</div>
 						</div>
 					</div>
 				</div>

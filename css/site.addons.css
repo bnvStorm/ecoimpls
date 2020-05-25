@@ -1,7 +1,7 @@
 *{
 	font-family: 'Didact Gothic', sans-serif;
 }
-.main-slider .slide .title{
+.main-slider .slide .title,.btn-holder{
 	display: none;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
@@ -18,13 +18,46 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	display: flex;	
 	-ms-align-items: center;
 	align-items: center;
-	justify-content: space-around;
+	justify-content: space-between;
 	-webkit-flex-wrap: wrap;
 	-moz-flex-wrap: wrap;
 	-ms-flex-wrap: wrap;
 	-o-flex-wrap: wrap;
 	flex-wrap: wrap;
 	font-size: 20px;
+}
+.main-slider .slide{
+	padding-top: 325px;
+}
+.head-info{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+.logo a{
+	z-index: 2;
+	    display: block;
+    position: relative;
+}
+.logo:after{
+	content: '';
+	position: absolute;
+	background: rgb(255,255,255,0.3);
+	width: 120px;
+	height: 125px;
+	top: 0;
+	z-index: 1;
+	    top: -10px;
+    left: 6px;
+
 }
 #footer .footer-holder{
 	background: url('../images/footer_back.jpg');
@@ -36,7 +69,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 #footer:before{
 	position: absolute;
 	content: '';
-	background: rgba(0, 0, 0, 0.2);
+	/*background: rgba(0, 0, 0, 0.2);*/
 	height: 100%;
 	width: 100%;
 }
@@ -53,4 +86,57 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	#header .nav-opener{
 		margin-top: -25px;
 	}
+	.main-slider .slide {
+    padding: 325px 0 30px;
+}
+.head-top,.head-info{
+	justify-content: center;
+}
+.socail-network li{
+	margin: 10px;
+}
+.logo:after {
+    content: '';
+    position: absolute;
+    background: rgb(255,255,255,0.3);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: 1;
+    /* top: -10px; */
+    left: 0;
+}
+.logo .img-responsive{
+	padding-top: 10px;
+}
+.banner{
+	padding-top: 275px;
+}
+}
+@media(max-width: 320px){
+	#header.style2 .contact-list{
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;-webkit-flex-direction: column;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		flex-direction: column;
+		-ms-align-items: center;
+		align-items: center;
+		justify-content: center;
+	}
+	.head-top, .head-info{
+		-webkit-flex-direction: column;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		flex-direction: column;
+		    align-items: center;
+	}
+	.service-sec .service {
+    min-height: 255px;
+}
 }
