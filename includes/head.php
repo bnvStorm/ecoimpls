@@ -17,6 +17,10 @@
 	<link rel="stylesheet" href="css/colors.css">
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="css/responsive.css">
+
+	<link rel="stylesheet" href="css/site.addons.css">
+	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
+	
 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
@@ -28,8 +32,10 @@
 			<div class="header-area">
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-12">
-							
+						<div class="col-xs-12 head-top">
+							<div class="logo">
+								<a href="/"><img src="images/logo1.png" alt="ecoimpulse" class="img-responsive"></a>
+							</div>
 						
 							<!-- socail network of the page -->
 							<ul class="socail-network list-unstyled">
@@ -51,9 +57,7 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<!-- logo of the page -->
-							<div class="logo">
-								<a href="/"><img src="images/logo1.png" alt="ecoimpulse" class="img-responsive"></a>
-							</div>
+					
 							<a href="#" class="nav-opener text-center md-round"><i class="fa fa-bars"></i></a>
 							<!-- nav of the page -->
 							<nav id="nav">

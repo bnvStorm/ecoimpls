@@ -209,10 +209,10 @@
     margin: 0 0 30px;
   }
   .service-sec .service:hover .over {
-    top: 66px;
+    top: 10px;
   }
   .service-sec .service .over {
-    top: 78px;
+    top: 10px;
   }
   .service-sec .tab-content .txt-holder {
     padding: 0 33px 0 0;
@@ -925,9 +925,9 @@
 
 @media (max-width: 399px) {
   .service-sec .service:hover .over {
-    top: 33px;
+    top: 2%;
   }
   .service-sec .service .over {
-    top: 49px;
+    top: 2%;
   }
 }

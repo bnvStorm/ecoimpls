@@ -70,7 +70,8 @@
 .project-detail .img-holder .img-col .ti-zoom-in:hover,
 .testimonail-sec .testimonail-slider .slick-prev:hover:before,
 .testimonail-sec .testimonail-slider .slick-next:hover:before {
-  color: #80BB45;
+  /*color: #E68007;*/
+  color: #E68007;
 }
 
 #back-top,
@@ -101,7 +102,7 @@
 .main-slider .slick-dots .slick-active button,
 .blog-sec .blog .img-holder .over span::before,
 .blog-sec .blog .img-holder .over span::after {
-  background-color: #80BB45;
+  background-color: #E68007;
 }
 
 .btn,
@@ -111,10 +112,11 @@
 .cart-sec .cart-list .btn,
 .coming-sec .comming-timer,
 .contact-sec .contact-form .btn:hover {
-  border-color: #80BB45;
+  border-color: #E68007;
 }
 
 .team-sec .team:hover .over,
 .project-sec .col.overlay:before {
-  background: rgba(128, 187, 69, 0.8);
+/*  background: rgba(128, 187, 69, 0.8);*/
+  background: rgba(230, 128, 7, 0.8);
 }

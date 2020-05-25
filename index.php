@@ -29,7 +29,7 @@
 							<div class="service overlay">
 								<img src="images/1.jpg" alt="image description" class="img-responsive">
 								<div class="over text-center">
-									<h2 class="text-uppercase">Полезно знать</h2>
+									<h2 class="text-uppercase">Важно знать</h2>
 									<p>- В соответствие с п.2-1 ст. 293 Экологического Кодекса РК, «опасные составляющие коммунальных отходов: электронное и электрические оборудование, и прочие опасные компоненты должны собираться раздельно и передаваться на утилизацию, переработку специализированным предприятиям».
 									</p>
 									<!-- <a href="service-detail.html" class="read-more text-uppercase">Read more</a> -->
@@ -41,7 +41,7 @@
 							<div class="service overlay">
 								<img src="images/2.jpg" alt="image description" class="img-responsive">
 								<div class="over text-center">
-									<h2 class="text-uppercase">Полезно знать</h2>
+									<h2 class="text-uppercase">Важно знать</h2>
 									<p>- Согласно требованиям ст.301 Экологического Кодекса РК, на полигоны твердо-бытовых отходов запрещено принимать отработанное электронное и электрическое оборудование, лом цветных и черных металлов.
 									</p>
 									<!-- <a href="service-detail.html" class="read-more text-uppercase">Read more</a> -->
@@ -52,7 +52,7 @@
 				</div>
 			</section>
 									<!-- testimonail sec of the page -->
-									<div class="testimonail-sec bg-full overlay" style="background-image: url('images/main.jpg');">
+									<div class="testimonail-sec bg-full overlay" style="background-image: url('images/1.jpg');">
 										<div class="container">
 											<div class="row">
 												<div class="col-xs-12">

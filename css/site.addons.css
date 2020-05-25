@@ -1,0 +1,56 @@
+*{
+	font-family: 'Didact Gothic', sans-serif;
+}
+.main-slider .slide .title{
+	display: none;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	font-family: 'Didact Gothic', sans-serif;
+}
+.socail-network,#header.style2 .contact-list .icon{
+	font-size: 20px;
+}
+.head-top{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;	
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: space-around;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+	font-size: 20px;
+}
+#footer .footer-holder{
+	background: url('../images/footer_back.jpg');
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	color:#000;
+}
+#footer:before{
+	position: absolute;
+	content: '';
+	background: rgba(0, 0, 0, 0.2);
+	height: 100%;
+	width: 100%;
+}
+#footer .contact-list a,#footer h3{
+	color: #000;
+}
+#footer .socail-network a{
+	color:#fff;
+}
+@media(max-width: 480px){
+	#header.style2 .contact-list{
+		margin-top: 10px;
+	}
+	#header .nav-opener{
+		margin-top: -25px;
+	}
+}
