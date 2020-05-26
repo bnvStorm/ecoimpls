@@ -70,18 +70,18 @@
 									<li>
 										<a href="project1.php">Прием оборудования</a>
 										<ul class="list-unstyled drop-down">
-											<li><a href="circuit.php">Электронные печатные платы</a></li>
-											<li><a href="circuit.php">Процессоры</a></li>
-											<li><a href="circuit.php">Оперативная память</a></li>
-											<li><a href="circuit.php">Жесткие диски</a></li>
-											<li><a href="circuit.php">Приводы</a></li>
-											<li><a href="circuit.php">Компьютерные блоки питания</a></li>
-											<li><a href="circuit.php">Компрессоры холодильного оборудования</a></li>
-											<li><a href="circuit.php">Отходы кабельной продукции</a></li>
-											<li><a href="circuit.php">Трансформаторы (любые)</a></li>
+											<li><a href="../../circuit.php">Электронные печатные платы</a></li>
+											<li><a href="../../circuit.php">Процессоры</a></li>
+											<li><a href="../../circuit.php">Оперативная память</a></li>
+											<li><a href="../../circuit.php">Жесткие диски</a></li>
+											<li><a href="../../circuit.php">Приводы</a></li>
+											<li><a href="../../circuit.php">Компьютерные блоки питания</a></li>
+											<li><a href="../../circuit.php">Компрессоры холодильного оборудования</a></li>
+											<li><a href="../../circuit.php">Отходы кабельной продукции</a></li>
+											<li><a href="../../circuit.php">Трансформаторы (любые)</a></li>
 										</ul>
 									</li>
-									<li><a href="contact.php">Контакты</a></li>
+									<li><a href="../../contact.php">Контакты</a></li>
 								</ul>
 							</nav>
 						</div>
