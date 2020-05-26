@@ -59,6 +59,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
     left: 6px;
 
 }
+.contact-sec .contact-list,.contact-sec .contact-list a,.contact-sec .hour-list{
+	color: #000;
+}
 #footer .footer-holder{
 	background: url('../images/footer_back.jpg');
 	background-repeat: no-repeat;
