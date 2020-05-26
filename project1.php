@@ -44,7 +44,7 @@
 									<img src="images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="circuit.php">Электронные печатные платы</a></strong>
-										<span class="sub-title">Перечень групп</span>
+										<!-- <span class="sub-title">Перечень групп</span> -->
 									</div>
 								</div>
 								<!-- col of the page -->
