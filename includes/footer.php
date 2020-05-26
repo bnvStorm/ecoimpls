@@ -11,13 +11,24 @@
 									<span class="icon ti-location-pin"></span>
 									<address>г. Караганда<br>ул. Молокова 100/7 <br> ТОО "ЭкоИмпульс"</address>
 								</li>
+								Электронная почта:
 								<li>
 									<span class="icon ti-email"></span>
 									<a href="mailto:too_ecoimpulse@mail.ru">too_ecoimpulse@mail.ru</a>
 								</li>
+								Отдел менеджмента:
 								<li>
+									
 									<span class="icon ti-headphone-alt"></span>
+									
 									<a href="tel:+77082501252">+7 (708) 250 1252</a>
+								</li>	
+								Диспетчерская:							
+								<li>
+
+									<span class="icon ti-headphone-alt"></span>
+									
+									<a href="tel:+7 747 889 1907">+7 747 889 1907</a>
 								</li>
 							</ul>
 						</div>
@@ -55,7 +66,7 @@
 		<span id="back-top" class="text-center md-round fa fa-caret-up"></span>
 		<!-- loader of the page -->
 		<div id="loader" class="loader-holder">
-	      <div class="block"><img src="images/svg/hearts.svg" width="100" alt="loader"></div>
+	      <div class="block"><img src="../../images/svg/hearts.svg" width="100" alt="loader"></div>
 	    </div>
 	</div>
 	<!-- include jQuery -->

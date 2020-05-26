@@ -21,7 +21,7 @@
 	<link rel="stylesheet" href="../../css/site.addons.css">
 	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
 	
-	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="../../images/favicon.ico" type="image/x-icon">
 </head>
 <body>
 	<!-- main container of all the page elements -->
@@ -68,17 +68,17 @@
 									<li class="active"><a href="/">Главная</a></li>
 									<!-- <li><a href="about.html">О нас</a></li> -->
 									<li>
-										<a href="project1.php">Прием оборудования</a>
+										<a href="../../project1.php">Прием оборудования</a>
 										<ul class="list-unstyled drop-down">
 											<li><a href="../../circuit.php">Электронные печатные платы</a></li>
-											<li><a href="../../circuit.php">Процессоры</a></li>
-											<li><a href="../../circuit.php">Оперативная память</a></li>
-											<li><a href="../../circuit.php">Жесткие диски</a></li>
-											<li><a href="../../circuit.php">Приводы</a></li>
-											<li><a href="../../circuit.php">Компьютерные блоки питания</a></li>
-											<li><a href="../../circuit.php">Компрессоры холодильного оборудования</a></li>
-											<li><a href="../../circuit.php">Отходы кабельной продукции</a></li>
-											<li><a href="../../circuit.php">Трансформаторы (любые)</a></li>
+											<li><a href="../../proc.php">Процессоры</a></li>
+											<li><a href="../../ram.php">Оперативная память</a></li>
+											<li><a href="../products/hdd/hdd.php">Жесткие диски</a></li>
+											<li><a href="../../drive.php">Приводы</a></li>
+											<li><a href="../products/pb/pb.php">Компьютерные блоки питания</a></li>
+											<li><a href="../products/compres/compres.php">Компрессоры холодильного оборудования</a></li>
+											<li><a href="../../cabel.php">Отходы кабельной продукции</a></li>
+											<li><a href="../products/transform/transform.php">Трансформаторы (любые)</a></li>
 										</ul>
 									</li>
 									<li><a href="../../contact.php">Контакты</a></li>

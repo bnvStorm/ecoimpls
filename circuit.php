@@ -36,35 +36,35 @@
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat3.html">3 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat3.php">3 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat4.html">4 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat4.php">4 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat5.html">5 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat5.php">5 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat6.html">6 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat6.php">6 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat7.html">7 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat7.php">7 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
