@@ -22,14 +22,14 @@
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat1.html">1 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat1.php">1 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat2.html">2 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat1.php">2 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>

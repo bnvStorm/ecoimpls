@@ -4,21 +4,21 @@
 	<!-- include the site stylesheet -->
 	<link href="https://fonts.googleapis.com/css?family=Arizonia%7COpen+Sans:300,300i,400,400i,600,700,800%7CRoboto:300,400,500,700" rel="stylesheet">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="css/font-awesome.css">
+	<link rel="stylesheet" href="../../css/font-awesome.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="../../css/bootstrap.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="css/plugins.css">
+	<link rel="stylesheet" href="../../css/plugins.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="css/icofont.css">
+	<link rel="stylesheet" href="../../css/icofont.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="../../css/style.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="css/colors.css">
+	<link rel="stylesheet" href="../../css/colors.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="../../css/responsive.css">
 
-	<link rel="stylesheet" href="css/site.addons.css">
+	<link rel="stylesheet" href="../../css/site.addons.css">
 	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
 	
 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -34,7 +34,7 @@
 					<div class="row">
 						<div class="col-xs-12 head-top">
 							<div class="logo">
-								<a href="/"><img src="images/logo1.png" alt="ecoimpulse" class="img-responsive"></a>
+								<a href="/"><img src="../../images/logo1.png" alt="ecoimpulse" class="img-responsive"></a>
 							</div>
 						
 						<div class="head-info">

@@ -59,11 +59,11 @@
 	    </div>
 	</div>
 	<!-- include jQuery -->
-	<script src="js/jquery.js"></script>
+	<script src="../../js/jquery.js"></script>
 	<!-- include jQuery -->
-	<script src="js/plugins.js"></script>
+	<script src="../../js/plugins.js"></script>
 	<!-- include jQuery -->
-	<script src="js/jquery.main.js"></script>
+	<script src="../../js/jquery.main.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-4"></script>
