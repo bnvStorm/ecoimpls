@@ -43,7 +43,7 @@
 								<div class="col overlay pc">
 									<img src="images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Электронные печатные платы</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Электронные печатные платы</a></strong>
 										<span class="sub-title">Перечень групп</span>
 									</div>
 								</div>
@@ -51,7 +51,7 @@
 								<div class="col overlay pc">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Процессоры</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Процессоры</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>
@@ -59,7 +59,7 @@
 								<div class="col overlay pc">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Оперативная память</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Оперативная память</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>
@@ -67,7 +67,7 @@
 								<div class="col overlay pc">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Жесткие диски</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Жесткие диски</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>
@@ -75,7 +75,7 @@
 								<div class="col overlay pc">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Приводы</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Приводы</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>
@@ -83,7 +83,7 @@
 								<div class="col overlay pc">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Компьютерные блоки питания</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Компьютерные блоки питания</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>
@@ -91,7 +91,7 @@
 								<div class="col overlay electr">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Компрессоры холодильного оборудования</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Компрессоры холодильного оборудования</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>
@@ -99,7 +99,7 @@
 								<div class="col overlay electr">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Отходы кабельной продукции</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Отходы кабельной продукции</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>
@@ -107,7 +107,7 @@
 								<div class="col overlay electr">
 									<img src="http://placehold.it/370x270" alt="image description" class="img-responsive">
 									<div class="over text-center">
-										<strong class="title text-uppercase"><a href="circuit.html">Трансформаторы (любые)</a></strong>
+										<strong class="title text-uppercase"><a href="circuit.php">Трансформаторы (любые)</a></strong>
 										<span class="sub-title">Interdior Design</span>
 									</div>
 								</div>																																																								
