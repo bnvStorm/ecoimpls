@@ -12,13 +12,13 @@
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="https://empls.biz/css/icofont.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="https://empls.biz/css/style.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../../css/colors.css">
+	<link rel="stylesheet" href="https://empls.biz/css/colors.css">
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="https://empls.biz/css/responsive.css">
 
-	<link rel="stylesheet" href="../../css/site.addons.css">
+	<link rel="stylesheet" href="https://empls.biz/css/site.addons.css">
 	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
 	
 	<link rel="shortcut icon" href="https://empls.biz/images/favicon.ico" type="image/x-icon">
@@ -63,10 +63,10 @@
 								<li><i class="icon icon_mail"></i> <a href="mailto:too_ecoimpulse@mail.ru">too_ecoimpulse@mail.ru</a></li>
 							</ul>
 									<!-- socail network of the page -->
-							<!-- <ul class="socail-network list-unstyled">
+							<ul class="socail-network list-unstyled">
 								<li><a href="#" class="social_facebook"></a></li>
 								<li><a href="#" class="fa fa-instagram"></a></li>
-							</ul> -->
+							</ul>
 						</div>
 						</div>
 					</div>
