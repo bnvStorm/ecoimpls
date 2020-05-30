@@ -77,8 +77,8 @@
 			<section class="map-sec">
 				<div class="map" data-lat="49.7831969" data-lng="73.0957864" data-zoom="17">
 					<div class="map-info">
-            			<h2 class="text-uppercase">VICIN</h2>
-            			<address>1600 Amphitheatre Parkway <br>Mountain View CA 94043</address>
+            			<h2 class="text-uppercase">ТОО "ЭкоИмпульс"</h2>
+            			<address>г. Караганда<br>ул. Молокова 100/7</address>
         			</div>
         		</div>
 			</section>
