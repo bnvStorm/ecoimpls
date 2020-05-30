@@ -4,24 +4,24 @@
 	<!-- include the site stylesheet -->
 	<link href="https://fonts.googleapis.com/css?family=Arizonia%7COpen+Sans:300,300i,400,400i,600,700,800%7CRoboto:300,400,500,700" rel="stylesheet">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../../css/font-awesome.css">
+	<link rel="stylesheet" href="https://empls.biz/css/font-awesome.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../../css/bootstrap.css">
+	<link rel="stylesheet" href="https://empls.biz/css/bootstrap.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../../css/plugins.css">
+	<link rel="stylesheet" href="https://empls.biz/css/plugins.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../../css/icofont.css">
+	<link rel="stylesheet" href="https://empls.biz/css/icofont.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../../css/style.css">
+	<link rel="stylesheet" href="../css/style.css">
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="../../css/colors.css">
 	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="../../css/responsive.css">
+	<link rel="stylesheet" href="https://empls.biz/css/responsive.css">
 
 	<link rel="stylesheet" href="../../css/site.addons.css">
 	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
 	
-	<link rel="shortcut icon" href="../../images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://empls.biz/images/favicon.ico" type="image/x-icon">
 	 <!-- social -->
 	<meta property="og:title" content="Экоимпульс Караганда">
 	<meta property="og:type" content="article">
@@ -52,7 +52,7 @@
 					<div class="row">
 						<div class="col-xs-12 head-top">
 							<div class="logo">
-								<a href="/"><img src="../../images/logo1.png" alt="ecoimpulse" class="img-responsive"></a>
+								<a href="/"><img src="https://empls.biz/images/logo1.png" alt="ecoimpulse" class="img-responsive"></a>
 							</div>
 						
 						<div class="head-info">
@@ -86,20 +86,20 @@
 									<li class="active"><a href="/">Главная</a></li>
 									<!-- <li><a href="about.html">О нас</a></li> -->
 									<li>
-										<a href="../../project1">Прием оборудования</a>
+										<a href="https://empls.biz/project1">Прием оборудования</a>
 										<ul class="list-unstyled drop-down">
-											<li><a href="../../circuit">Электронные печатные платы</a></li>
-											<li><a href="../../proc">Процессоры</a></li>
-											<li><a href="../../ram">Оперативная память</a></li>
+											<li><a href="https://empls.biz/circuit">Электронные печатные платы</a></li>
+											<li><a href="https://empls.biz/proc">Процессоры</a></li>
+											<li><a href="https://empls.biz/ram">Оперативная память</a></li>
 											<li><a href="../products/hdd/hdd">Жесткие диски</a></li>
-											<li><a href="../../drive">Приводы</a></li>
-											<li><a href="../products/pb/pb">Компьютерные блоки питания</a></li>
+											<li><a href="https://empls.biz/drive">Приводы</a></li>
+											<li><a href="../produchttps://empls.biz/pb">Компьютерные блоки питания</a></li>
 											<li><a href="../products/compres/compres">Компрессоры холодильного оборудования</a></li>
-											<li><a href="../../cabel">Отходы кабельной продукции</a></li>
-											<li><a href="../products/transform/transform">Трансформаторы (любые)</a></li>
+											<li><a href="https://empls.biz/cabel">Отходы кабельной продукции</a></li>
+											<li><a href="https://empls.biz/products/transform/transform">Трансформаторы (любые)</a></li>
 										</ul>
 									</li>
-									<li><a href="../../contact">Контакты</a></li>
+									<li><a href="https://empls.biz/contact">Контакты</a></li>
 								</ul>
 							</nav>
 						</div>

@@ -120,3 +120,6 @@
 /*  background: rgba(128, 187, 69, 0.8);*/
   background: rgba(230, 128, 7, 0.8);
 }
+.project-sec .col.overlay:hover:before{
+	background: none;
+}

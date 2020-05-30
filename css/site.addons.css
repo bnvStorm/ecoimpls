@@ -1,7 +1,7 @@
 *{
 	font-family: 'Didact Gothic', sans-serif;
 }
-.main-slider .slide .title,.btn-holder{
+.main-slider .slide .title,.btn-holder,.socail-network{
 	display: none;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
@@ -62,6 +62,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .contact-sec .contact-list,.contact-sec .contact-list a,.contact-sec .hour-list{
 	color: #000;
 }
+.project-sec .col .over .title a{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
 #footer .footer-holder{
 	background: url('../images/footer_back.jpg');
 	background-repeat: no-repeat;
@@ -83,12 +88,26 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	color:#fff;
 }
 @media(max-width: 480px){
+	#nav{
+		top: -210px;
+		z-index: 3;
+	}
+	#nav ul{
+		padding-top: 60px;
+	}
+	#header .nav-opener{
+		position: fixed;
+    top: 0;
+    z-index: 4;
+    right: 0;
+    margin-top: 0;
+    margin-top: 10px;
+    margin-right: 10px;
+	}
 	#header.style2 .contact-list{
 		margin-top: 10px;
 	}
-	#header .nav-opener{
-		margin-top: -25px;
-	}
+
 	.main-slider .slide {
     padding: 325px 0 30px;
 }

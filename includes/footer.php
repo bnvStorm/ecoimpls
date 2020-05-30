@@ -66,15 +66,17 @@
 		<span id="back-top" class="text-center md-round fa fa-caret-up"></span>
 		<!-- loader of the page -->
 		<div id="loader" class="loader-holder">
-	      <div class="block"><img src="../../images/svg/hearts.svg" width="100" alt="loader"></div>
+	      <div class="block"><img src="https://empls.biz/images/svg/hearts.svg" width="100" alt="loader"></div>
 	    </div>
 	</div>
 	<!-- include jQuery -->
-	<script src="../../js/jquery.js"></script>
+	<script src="https://empls.biz/js/jquery.js"></script>
 	<!-- include jQuery -->
-	<script src="../../js/plugins.js"></script>
+	<script src="https://empls.biz/js/plugins.js"></script>
 	<!-- include jQuery -->
-	<script src="../../js/jquery.main.js"></script>
+	<script src="https://empls.biz/js/jquery.main.js"></script>
+
+	<script src="../js/site.addons.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-4"></script>
@@ -99,5 +101,5 @@
         webvisor:true
    });
 </script>
-<noscript><div><img src="https://mc.yandex.ru/watch/63513199" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="https://mc.yandex.ru/watch/63513199" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
 <!-- /Yandex.Metrika counter -->
