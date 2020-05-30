@@ -22,21 +22,21 @@
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/proc/proc1.php">1 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/proc/proc1">1 группа</a></strong>
 							<span class="sub-title">Керамика</span>
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/proc/proc2.php">2 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/proc/proc2">2 группа</a></strong>
 							<span class="sub-title">Пластик</span>
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/proc/proc3.php">3 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/proc/proc3">3 группа</a></strong>
 							<span class="sub-title">С металлической крышкой</span>
 						</div>
 					</div>

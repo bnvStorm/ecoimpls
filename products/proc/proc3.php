@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
@@ -42,11 +42,11 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc1.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc1"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/proc/proc1.php">Процессор
+											<span class="name"><a href="../../products/proc/proc1">Процессор
 1 группы
 Керамика</a></span>
 											<strong class="price">2000 тг.</strong>
@@ -62,11 +62,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc1.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc1"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/proc/proc1.php">Процессор 
+											<span class="name"><a href="../../products/proc/proc1">Процессор 
 2 группы
 Пластик</a></span>
 											<strong class="price">1500 тг.</strong>
@@ -82,11 +82,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc1.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc1"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/proc/proc1.php">Процессор
+											<span class="name"><a href="../../products/proc/proc1">Процессор
 3 группы
 С металлической крышкой</a></span>
 											<strong class="price">1000 тг. за 1кг</strong>

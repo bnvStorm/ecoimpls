@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
@@ -42,11 +42,11 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/ram/ram1.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/ram/ram1"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/ram/ram1.php">Оперативная память
+											<span class="name"><a href="../../products/ram/ram1">Оперативная память
 1 группы
 С позолоченными контактами</a></span>
 											<strong class="price">1100 тг.</strong>
@@ -62,11 +62,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/ram/ram1.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/ram/ram1"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/ram/ram1.php">Оперативная память 2 группы</a></span>
+											<span class="name"><a href="../../products/ram/ram1">Оперативная память 2 группы</a></span>
 											<strong class="price">500 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">

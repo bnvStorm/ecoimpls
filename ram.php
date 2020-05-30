@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -22,14 +23,14 @@
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/ram/ram1.php">1 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/ram/ram1">1 группа</a></strong>
 							<span class="sub-title">С позолоченными контактами</span>
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/ram/ram2.php">2 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/ram/ram2">2 группа</a></strong>
 							<span class="sub-title">С посеребренными контактами
 </span>
 						</div>

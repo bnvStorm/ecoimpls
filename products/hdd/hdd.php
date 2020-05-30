@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
@@ -42,11 +42,11 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/pplat/pplat2.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat2"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/pplat/pplat2.php">Электронные печатные платы 2 группы</a></span>
+											<span class="name"><a href="../../products/pplat/pplat2">Электронные печатные платы 2 группы</a></span>
 											<strong class="price">1100 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
@@ -60,11 +60,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/pplat/pplat3.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat3"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/pplat/pplat3.php">Электронные печатные платы 3 группы</a></span>
+											<span class="name"><a href="../../products/pplat/pplat3">Электронные печатные платы 3 группы</a></span>
 											<strong class="price">500 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
@@ -78,11 +78,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/pplat/pplat4.php"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat4"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/pplat/pplat4.php">Электронные печатные платы 4 группы</a></span>
+											<span class="name"><a href="../../products/pplat/pplat4">Электронные печатные платы 4 группы</a></span>
 											<strong class="price">150 тг. за 1кг</strong>
 										</div>
 										<ul class="list-unstyled rating-list">

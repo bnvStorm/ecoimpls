@@ -22,14 +22,14 @@
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/drive/drive1.php">1 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/drive/drive1">1 группа</a></strong>
 							<span class="sub-title">CD, DVD</span>
 						</div>
 					</div>
 					<div class="col overlay building">
 						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/drive/drive2.php">2 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/drive/drive2">2 группа</a></strong>
 							<span class="sub-title">FDD</span>
 						</div>
 					</div>

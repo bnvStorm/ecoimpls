@@ -86,20 +86,20 @@
 									<li class="active"><a href="/">Главная</a></li>
 									<!-- <li><a href="about.html">О нас</a></li> -->
 									<li>
-										<a href="../../project1.php">Прием оборудования</a>
+										<a href="../../project1">Прием оборудования</a>
 										<ul class="list-unstyled drop-down">
-											<li><a href="../../circuit.php">Электронные печатные платы</a></li>
-											<li><a href="../../proc.php">Процессоры</a></li>
-											<li><a href="../../ram.php">Оперативная память</a></li>
-											<li><a href="../products/hdd/hdd.php">Жесткие диски</a></li>
-											<li><a href="../../drive.php">Приводы</a></li>
-											<li><a href="../products/pb/pb.php">Компьютерные блоки питания</a></li>
-											<li><a href="../products/compres/compres.php">Компрессоры холодильного оборудования</a></li>
-											<li><a href="../../cabel.php">Отходы кабельной продукции</a></li>
-											<li><a href="../products/transform/transform.php">Трансформаторы (любые)</a></li>
+											<li><a href="../../circuit">Электронные печатные платы</a></li>
+											<li><a href="../../proc">Процессоры</a></li>
+											<li><a href="../../ram">Оперативная память</a></li>
+											<li><a href="../products/hdd/hdd">Жесткие диски</a></li>
+											<li><a href="../../drive">Приводы</a></li>
+											<li><a href="../products/pb/pb">Компьютерные блоки питания</a></li>
+											<li><a href="../products/compres/compres">Компрессоры холодильного оборудования</a></li>
+											<li><a href="../../cabel">Отходы кабельной продукции</a></li>
+											<li><a href="../products/transform/transform">Трансформаторы (любые)</a></li>
 										</ul>
 									</li>
-									<li><a href="../../contact.php">Контакты</a></li>
+									<li><a href="../../contact">Контакты</a></li>
 								</ul>
 							</nav>
 						</div>
