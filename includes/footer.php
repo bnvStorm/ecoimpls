@@ -76,7 +76,7 @@
 	<!-- include jQuery -->
 	<script src="https://empls.biz/js/jquery.main.js"></script>
 
-	<script src="../js/site.addons.js"></script>
+	<script src="https://empls.biz/js/site.addons.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-4"></script>

@@ -18,7 +18,7 @@
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="https://empls.biz/css/responsive.css">
 
-	<link rel="stylesheet" href="https://empls.biz/css/site.addons.css">
+	<link rel="stylesheet" href="../css/site.addons.css">
 	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
 	
 	<link rel="shortcut icon" href="https://empls.biz/images/favicon.ico" type="image/x-icon">

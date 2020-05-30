@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	color: #000;
 }
 .project-sec .col .over .title a{
-    max-width: 365px;
+    max-width: 480px;
     width: 100%;
     height: 300px;
     position: relative;
@@ -94,9 +94,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	color:#fff;
 }
 @media(max-width: 480px){
+	body.nav-active{
+		overflow: hidden;
+	}
 	#nav{
-		top: -210px;
+		top: -235px;
 		z-index: 3;
+
 	}
 	#nav ul{
 		padding-top: 60px;
