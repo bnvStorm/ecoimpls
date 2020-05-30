@@ -10,6 +10,6 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
 
 #errors pages
-ErrorDocument 404 /404page.html
-ErrorDocument 500 /404page.html
+ErrorDocument 404 /404page.php
+ErrorDocument 500 /404page.php
 
