@@ -48,6 +48,27 @@
 		<header id="header" class="style2">
 			<!-- header area of the page -->
 			<div class="header-area">
+							<nav id="nav" class="mobile_menu">
+								<ul class="list-unstyled">
+									<li class="active"><a href="/">Главная</a></li>
+									<!-- <li><a href="about.html">О нас</a></li> -->
+									<li>
+										<a href="https://empls.biz/project1">Прием оборудования</a>
+										<ul class="list-unstyled drop-down">
+											<li><a href="https://empls.biz/circuit">Электронные печатные платы</a></li>
+											<li><a href="https://empls.biz/proc">Процессоры</a></li>
+											<li><a href="https://empls.biz/ram">Оперативная память</a></li>
+											<li><a href="../products/hdd/hdd">Жесткие диски</a></li>
+											<li><a href="https://empls.biz/drive">Приводы</a></li>
+											<li><a href="../produchttps://empls.biz/pb">Компьютерные блоки питания</a></li>
+											<li><a href="../products/compres/compres">Компрессоры холодильного оборудования</a></li>
+											<li><a href="https://empls.biz/cabel">Отходы кабельной продукции</a></li>
+											<li><a href="https://empls.biz/products/transform/transform">Трансформаторы (любые)</a></li>
+										</ul>
+									</li>
+									<li><a href="https://empls.biz/contact">Контакты</a></li>
+								</ul>
+							</nav>
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 head-top">
@@ -81,7 +102,7 @@
 					
 							<a href="#" class="nav-opener text-center md-round"><i class="fa fa-bars"></i></a>
 							<!-- nav of the page -->
-							<nav id="nav">
+							<nav id="nav" class="desctop_menu">
 								<ul class="list-unstyled">
 									<li class="active"><a href="/">Главная</a></li>
 									<!-- <li><a href="about.html">О нас</a></li> -->

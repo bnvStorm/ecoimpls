@@ -1,7 +1,7 @@
 *{
 	font-family: 'Didact Gothic', sans-serif;
 }
-.main-slider .slide .title,.btn-holder,.socail-network{
+.main-slider .slide .title,.btn-holder,.socail-network,.mobile_menu{
 	display: none;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
@@ -97,8 +97,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	body.nav-active{
 		overflow: hidden;
 	}
+	.desctop_menu{
+		display: none;
+	}
+	.mobile_menu{
+		display: block;
+	}
+
 	#nav{
-		top: -235px;
+		top: 0;
 		z-index: 3;
 
 	}
@@ -108,7 +115,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	#header .nav-opener{
 		position: fixed;
     top: 0;
-    z-index: 4;
+    z-index: 8;
     right: 0;
     margin-top: 0;
     margin-top: 10px;
