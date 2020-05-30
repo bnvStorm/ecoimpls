@@ -22,6 +22,24 @@
 	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
 	
 	<link rel="shortcut icon" href="../../images/favicon.ico" type="image/x-icon">
+	 <!-- social -->
+	<meta property="og:title" content="Экоимпульс Караганда">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://empls.biz/">
+	<meta property="og:image" content="https://empls.biz/images/social.jpg">
+	<meta property="og:site_name" content="Экоимпульс Караганда">
+	<!-- <meta property="fb:admins" content="">  -->
+	<meta property="og:description" content="Прием плат в Караганде. Дорого!">
+	<meta property="og:locale" content="ru_RU">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<!-- <meta name="twitter:site" content="@Freepik_Vectors">
+	<meta name="twitter:creator" content="@Freepik_Vectors"> -->
+	<meta name="twitter:title" content="Экоимпульс Караганда">
+	<meta name="twitter:image:src" content="https://empls.biz/images/social.jpg">
+	<meta name="twitter:url" content="https://empls.biz/">
+	<meta name="twitter:description" content="Прием плат в Караганде. Дорого!">
+	  <!-- social -->
 </head>
 <body>
 	<!-- main container of all the page elements -->
