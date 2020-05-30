@@ -53,10 +53,10 @@
 						</div>
 						<div class="col-xs-12 col-sm-6">
 							<!-- Socail network of the page -->
-							<ul class="socail-network list-unstyled">
+					<!-- 		<ul class="socail-network list-unstyled">
 								<li><a href="#" class="social_facebook"></a></li>
 								<li><a href="#" class="fa fa-instagram"></a></li>
-							</ul>
+							</ul> -->
 						</div>
 					</div>
 				</div>
