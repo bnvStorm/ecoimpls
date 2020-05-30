@@ -1,7 +1,7 @@
 *{
 	font-family: 'Didact Gothic', sans-serif;
 }
-.main-slider .slide .title,.btn-holder,.socail-network{
+.main-slider .slide .title,.btn-holder,.socail-network,.mobile_menu{
 	display: none;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
@@ -96,6 +96,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 @media(max-width: 480px){
 	body.nav-active{
 		overflow: hidden;
+	}
+	.mobile_menu{
+		display: block;
 	}
 	#nav{
 		top: 0;

@@ -48,7 +48,7 @@
 		<header id="header" class="style2">
 			<!-- header area of the page -->
 			<div class="header-area">
-										<nav id="nav">
+							<nav id="nav mobile">
 								<ul class="list-unstyled">
 									<li class="active"><a href="/">Главная</a></li>
 									<!-- <li><a href="about.html">О нас</a></li> -->
