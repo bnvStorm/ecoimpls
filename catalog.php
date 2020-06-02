@@ -41,7 +41,7 @@
 							<div class="project-holder">
 								<!-- col of the page -->
 								<div class="col overlay pc">
-									<img src="images/staff/pplat/icon/1.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/1.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="circuit">Электронные печатные платы</a></strong>
 										<!-- <span class="sub-title">Перечень групп</span> -->
@@ -49,7 +49,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay pc">
-									<img src="images/staff/pplat/icon/2.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/2.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="proc">Процессоры</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
@@ -57,7 +57,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay pc">
-									<img src="images/staff/pplat/icon/3.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/3.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="ram">Оперативная память</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
@@ -65,7 +65,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay pc">
-									<img src="images/staff/pplat/icon/4.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/4.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="../products/hdd/hdd">Жесткие диски</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
@@ -73,7 +73,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay pc">
-									<img src="images/staff/pplat/icon/5.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/5.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="drive">Приводы</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
@@ -81,7 +81,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay pc">
-									<img src="images/staff/pplat/icon/6.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/6.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="../products/pb/pb">Компьютерные блоки питания</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
@@ -89,7 +89,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay electr">
-									<img src="images/staff/pplat/icon/7.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/7.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="../products/compres/compres">Компрессоры холодильного оборудования</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
@@ -97,7 +97,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay electr">
-									<img src="images/staff/pplat/icon/8.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/8.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="cabel">Отходы кабельной продукции</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
@@ -105,7 +105,7 @@
 								</div>
 								<!-- col of the page -->
 								<div class="col overlay electr">
-									<img src="images/staff/pplat/icon/9.jpg" alt="image description" class="img-responsive">
+									<img src="images/staff/icon/9.jpg" alt="image description" class="img-responsive">
 									<div class="over text-center">
 										<strong class="title text-uppercase"><a href="../products/transform/transform">Трансформаторы (любые)</a></strong>
 										<!-- <span class="sub-title">Interdior Design</span> -->
