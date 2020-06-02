@@ -3,20 +3,7 @@
 	<title>Экоимпульс</title>
 	<!-- include the site stylesheet -->
 	<link href="https://fonts.googleapis.com/css?family=Arizonia%7COpen+Sans:300,300i,400,400i,600,700,800%7CRoboto:300,400,500,700" rel="stylesheet">
-	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="https://empls.biz/css/font-awesome.css">
-	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="https://empls.biz/css/bootstrap.css">
-	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="https://empls.biz/css/plugins.css">
-	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="https://empls.biz/css/icofont.css">
-	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="https://empls.biz/css/style.css">
-	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="https://empls.biz/css/colors.css">
-	<!-- include the site stylesheet -->
-	<link rel="stylesheet" href="https://empls.biz/css/responsive.css">
+	<link rel="stylesheet" href="/css/libs.min.css">
 
 	<link rel="stylesheet" href="https://empls.biz/css/site.addons.css">
 	<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
