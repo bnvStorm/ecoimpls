@@ -103,10 +103,17 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	.mobile_menu{
 		display: block;
 	}
-
+.slick-initialized .slick-slide{
+	border:none;
+	color: #fff;
+}
+.slick-initialized .slick-slide:active{
+	border:none;
+}
 	#nav{
 		top: 0;
 		z-index: 3;
+		position: fixed;
 
 	}
 	#nav ul{
