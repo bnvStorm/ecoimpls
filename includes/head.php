@@ -94,7 +94,7 @@
 									<li class="active"><a href="/">Главная</a></li>
 									<!-- <li><a href="about.html">О нас</a></li> -->
 									<li>
-										<a href="https://empls.biz/project1">Прием оборудования</a>
+										<a href="https://empls.biz/catalog">Прием оборудования</a>
 										<ul class="list-unstyled drop-down">
 											<li><a href="https://empls.biz/circuit">Электронные печатные платы</a></li>
 											<li><a href="https://empls.biz/proc">Процессоры</a></li>

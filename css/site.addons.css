@@ -179,3 +179,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
     min-height: 255px;
 }
 }
+.project-sec .col img{
+	max-height: 250px;
+	min-height: 250px;
+}
