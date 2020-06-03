@@ -20,7 +20,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/pplat/image1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/pplat/image4.jpg" alt="image description" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Электронные печатные платы 4 группы</h4>

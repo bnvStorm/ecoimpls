@@ -20,49 +20,49 @@
 				<div class="project-holder">
 					<!-- col of the page -->
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\pplat\image1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/pplat/pplat1">1 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\pplat\image2.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/pplat/pplat1">2 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/pplat/pplat2">2 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\pplat\image3.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/pplat/pplat3">3 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\pplat\image4.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/pplat/pplat4">4 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\pplat\image5.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/pplat/pplat5">5 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\pplat\image6.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/pplat/pplat6">6 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\pplat\image7.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/pplat/pplat7">7 группа</a></strong>
 							<!-- <span class="sub-title">Interdior Design</span> -->

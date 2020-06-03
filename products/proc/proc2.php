@@ -20,7 +20,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/pplat/image1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/proc/2.jpg" alt="image description" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Процессор 2 группы</h4>
@@ -42,7 +42,7 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc1"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc1"><img src="../../images/staff/proc/1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -62,7 +62,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc2"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc2"><img src="../../images/staff/proc/2.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -82,7 +82,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc3"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc3"><img src="../../images/staff/proc/3.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">

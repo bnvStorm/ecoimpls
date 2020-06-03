@@ -42,7 +42,7 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/pplat/pplat2"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat2"><img src="../../images/staff/pplat/image2.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -60,7 +60,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/pplat/pplat3"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat3"><img src="../../images/staff/pplat/image3.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -78,7 +78,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/pplat/pplat4"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat4"><img src="../../images/staff/pplat/image4.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
