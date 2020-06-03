@@ -47,7 +47,7 @@
 											<li><a href="https://empls.biz/ram">Оперативная память</a></li>
 											<li><a href="https://empls.biz/products/hdd/hdd">Жесткие диски</a></li>
 											<li><a href="https://empls.biz/drive">Приводы</a></li>
-											<li><a href="https://empls.biz/products/pb">Компьютерные блоки питания</a></li>
+											<li><a href="https://empls.biz/products/pb/pb">Компьютерные блоки питания</a></li>
 											<li><a href="https://empls.biz/products/compres/compres">Компрессоры холодильного оборудования</a></li>
 											<li><a href="https://empls.biz/cabel">Отходы кабельной продукции</a></li>
 											<li><a href="https://empls.biz/products/transform/transform">Трансформаторы (любые)</a></li>
@@ -101,7 +101,7 @@
 											<li><a href="https://empls.biz/ram">Оперативная память</a></li>
 											<li><a href="https://empls.biz/products/hdd/hdd">Жесткие диски</a></li>
 											<li><a href="https://empls.biz/drive">Приводы</a></li>
-											<li><a href="https://empls.biz/products/pb">Компьютерные блоки питания</a></li>
+											<li><a href="https://empls.biz/products/pb/pb">Компьютерные блоки питания</a></li>
 											<li><a href="https://empls.biz/products/compres/compres">Компрессоры холодильного оборудования</a></li>
 											<li><a href="https://empls.biz/cabel">Отходы кабельной продукции</a></li>
 											<li><a href="https://empls.biz/products/transform/transform">Трансформаторы (любые)</a></li>
