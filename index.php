@@ -58,7 +58,7 @@
 							<p>Вы сможете посмотреть все виды товаров которые мы принимаем в нашем каталоге!</p>
 						</div>
 						<div class="col-xs-12 col-sm-3">
-							<a href="project1" class="btn text-center text-uppercase">КАТАЛОГ</a>
+							<a href="catalog" class="btn text-center text-uppercase">КАТАЛОГ</a>
 						</div>
 					</div>
 				</div>
