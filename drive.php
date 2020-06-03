@@ -20,14 +20,14 @@
 				<div class="project-holder">
 					<!-- col of the page -->
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\rwcd\1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/drive/drive1">1 группа</a></strong>
 							<span class="sub-title">CD, DVD</span>
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\rwcd\2.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/drive/drive2">2 группа</a></strong>
 							<span class="sub-title">FDD</span>
