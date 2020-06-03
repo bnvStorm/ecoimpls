@@ -20,7 +20,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/pplat/image1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/rwcd/2.jpg" alt="image description" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Приводы гибких дисков (FDD)</h4>
@@ -36,18 +36,18 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-xs-12 col-md-3">
+				<div class="col-xs-12 col-md-3">
 						<section class="widget">
 							<h3>Еще из этой категории</h3>
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="#"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="#"><img src="../../images/staff/rwcd/1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="pplat2.html">Электронные печатные платы 2 группы</a></span>
-											<strong class="price">1100 тг.</strong>
+											<span class="name"><a href="../../products/drive/drive1">Приводы компакт-дисков (CD, DVD)</a></span>
+											<strong class="price">50 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>
@@ -60,12 +60,12 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="pplat3.html"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/drive/drive2"><img src="../../images/staff/rwcd/2.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="">Электронные печатные платы 3 группы</a></span>
-											<strong class="price">500 тг.</strong>
+											<span class="name"><a href="">Приводы</a></span>
+											<strong class="price">50 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>
@@ -78,7 +78,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="pplat4.html"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat4"><img src="../../images/staff/pplat/image4.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">

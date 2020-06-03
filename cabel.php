@@ -20,14 +20,14 @@
 				<div class="project-holder">
 					<!-- col of the page -->
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\trash\1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/cabel/cabel1">Медные Кабеля</a></strong>
 							<!-- <span class="sub-title">С позолоченными контактами</span> -->
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\pplat\preview\pimage1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\trash\2.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/cabel/cabel2">Алюминиевые Кабеля</a></strong>
 							<!-- <span class="sub-title">С посеребренными контактами

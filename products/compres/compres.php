@@ -20,7 +20,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/pplat/image1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/compres/1.jpg" alt="image description" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Компрессоры Холодильного Оборудования</h4>
@@ -42,7 +42,7 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/ram/ram1"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/ram/ram1"><img src="../../images/staff/ram/1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -62,11 +62,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/ram/ram2"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/ram/ram2"><img src="../../images/staff/pplat/preview/pimage3.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/ram/ram2">Электронные печатные платы 2 группы</a></span>
+											<span class="name"><a href="../../products/pplat/ppalt3">Электронные печатные платы 3 группы</a></span>
 											<strong class="price">500 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">

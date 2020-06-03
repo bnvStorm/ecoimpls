@@ -20,7 +20,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/pplat/image1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/rwcd/1.jpg" alt="image description" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Приводы компакт-дисков 1 группы</h4>
@@ -42,11 +42,11 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="#"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="#"><img src="../../images/staff/rwcd/1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="pplat2.html">Приводы компакт-дисков (CD, DVD)</a></span>
+											<span class="name"><a href="../../products/drive/drive1">Приводы компакт-дисков (CD, DVD)</a></span>
 											<strong class="price">50 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
@@ -60,7 +60,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="pplat3.html"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/drive/drive2"><img src="../../images/staff/rwcd/2.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -78,7 +78,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="pplat4.html"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/pplat/pplat4"><img src="../../images/staff/pplat/image4.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
