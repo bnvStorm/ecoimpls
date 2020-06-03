@@ -3,7 +3,7 @@
 			<div class="footer-holder">
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-12 col-sm-6 col-md-3">
+						<div class="col-xs-12 col-sm-6 col-md-3 foot-mob">
 							<h3 class="text-uppercase">Свяжитесь с нами</h3>
 							<!-- contact list of the page -->
 							<ul class="list-unstyled contact-list">
@@ -32,7 +32,7 @@
 								</li>
 							</ul>
 						</div>
-						<div class="col-xs-12 col-sm-6 col-md-3">
+						<div class="col-xs-12 col-sm-6 col-md-3 foot-mob">
 							<h3 class="text-uppercase">Часы работы</h3>
 							<!-- hour list of the page -->
 							<ul class="list-unstyled hour-list">
@@ -48,7 +48,7 @@
 			<div class="footer-area">
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-12 col-sm-6">
+						<div class="col-xs-12 col-sm-6 foot-mob">
 							<p>Копирайт © 2020 Экоимпульс. Все права защищены</p>
 						</div>
 						<div class="col-xs-12 col-sm-6">

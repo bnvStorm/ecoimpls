@@ -154,6 +154,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .banner{
 	padding-top: 275px;
 }
+.foot-mob{
+	text-align: center;
+}
+#footer h3:before{
+	left: 42%;
+}
 }
 @media(max-width: 320px){
 	#header.style2 .contact-list{
