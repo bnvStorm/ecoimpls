@@ -20,23 +20,23 @@
 				<div class="project-holder">
 					<!-- col of the page -->
 					<div class="col overlay building">
-						<img src="images\staff\proc\1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\proc\1.png" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/proc/proc1">1 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/proc/proc1">1 группа <br> Керамика</a></strong>
 							<span class="sub-title">Керамика</span>
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\proc\2.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\proc\2-2.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/proc/proc2">2 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/proc/proc2">2 группа <br> Пластик</a></strong>
 							<span class="sub-title">Пластик</span>
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\proc\3.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\proc\3-3.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
-							<strong class="title text-uppercase"><a href="products/proc/proc3">3 группа</a></strong>
+							<strong class="title text-uppercase"><a href="products/proc/proc3">3 группа <br> С металлической крышкой</a></strong>
 							<span class="sub-title">С металлической крышкой</span>
 						</div>
 					</div>

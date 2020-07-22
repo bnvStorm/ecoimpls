@@ -24,7 +24,7 @@
 							</div>
 							<div class="txt-holder">
 								<h4>Приводы компакт-дисков 1 группы</h4>
-								<strong class="price">Цена за 1 кг - 50 тг. </strong>
+								<strong class="price">Цена за 1 кг - 25 тг. </strong>
 								<ul class="list-unstyled rating-list">
 									<li><a href="#" class="active"><i class="ti-star"></i></a></li>
 									<li><a href="#" class="active"><i class="ti-star"></i></a></li>
@@ -47,7 +47,7 @@
 									<div class="txt-holder">
 										<div class="header">
 											<span class="name"><a href="../../products/drive/drive1">Приводы компакт-дисков (CD, DVD)</a></span>
-											<strong class="price">50 тг.</strong>
+											<strong class="price">25 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>
@@ -65,7 +65,7 @@
 									<div class="txt-holder">
 										<div class="header">
 											<span class="name"><a href="">Приводы</a></span>
-											<strong class="price">50 тг.</strong>
+											<strong class="price">25 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>
@@ -83,7 +83,7 @@
 									<div class="txt-holder">
 										<div class="header">
 											<span class="name"><a href="#">Электронные печатные платы 4 группы</a></span>
-											<strong class="price">150 тг. за 1кг</strong>
+											<strong class="price">100 тг. за 1кг</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>

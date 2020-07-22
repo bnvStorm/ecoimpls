@@ -33,6 +33,8 @@
 									<li><a href="#"><i class="ti-star"></i></a></li>
 								</ul>
 								<p>Электронные печатные платы 5 группы включают в себя смешанные платы из 3 и 4 группы электронных печатных плат.</p>
+								<br>
+								<p>Не должно иметь дополнительных металлических и пластиковых элементов: крепления, радиаторы, батарейки, ТВС, ТДКС.</p>
 							</div>
 						</div>
 					</div>
@@ -47,7 +49,7 @@
 									<div class="txt-holder">
 										<div class="header">
 											<span class="name"><a href="pplat2.html">Электронные печатные платы 2 группы</a></span>
-											<strong class="price">1100 тг.</strong>
+											<strong class="price">1000 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>
@@ -83,7 +85,7 @@
 									<div class="txt-holder">
 										<div class="header">
 											<span class="name"><a href="#">Электронные печатные платы 4 группы</a></span>
-											<strong class="price">150 тг. за 1кг</strong>
+											<strong class="price">100 тг. за 1кг</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>

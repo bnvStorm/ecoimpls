@@ -23,7 +23,7 @@
 								<img src="../../images/staff/ram/1.jpg" alt="image description" class="img-responsive">
 							</div>
 							<div class="txt-holder">
-								<h4>Оперативная память 1 группы <br> с посерябренными контактамии</h4>
+								<h4>Оперативная память 1 группы <br> с позолоченными контактами</h4>
 								<strong class="price">Цена за 1 кг - 1000 тг. </strong>
 								<ul class="list-unstyled rating-list">
 									<li><a href="#" class="active"><i class="ti-star"></i></a></li>

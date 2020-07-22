@@ -20,10 +20,10 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/proc/1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/proc/1.png" alt="image description" class="img-responsive">
 							</div>
 							<div class="txt-holder">
-								<h4>Процессор 1 группы</h4>
+								<h4>Процессор 1 группы <br>Керамика</h4>
 								<strong class="price">Цена за 1 кг - 2000 тг. </strong>
 								<ul class="list-unstyled rating-list">
 									<li><a href="#" class="active"><i class="ti-star"></i></a></li>
@@ -32,7 +32,8 @@
 									<li><a href="#" class="active"><i class="ti-star"></i></a></li>
 									<li><a href="#"><i class="ti-star"></i></a></li>
 								</ul>
-								<p>К процессорам 1 группы относятся процессоры ПК с керамической крышкой. </p>
+								<p>К процессорам 1 группы относятся процессоры ПК с керамической крышкой. </p><br>
+								<p>Не должно иметь дополнительных металлических и пластиковых элементов: крепления, радиаторы, батарейки, ТВС, ТДКС.</p>
 							</div>
 						</div>
 					</div>
@@ -42,7 +43,7 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc1"><img src="../../images/staff/proc/1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc1"><img src="../../images/staff/proc/1.png" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -62,7 +63,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc2"><img src="../../images/staff/proc/2.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc2"><img src="../../images/staff/proc/2-2.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -82,7 +83,7 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc3"><img src="../../images/staff/proc/3.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc3"><img src="../../images/staff/proc/3-3.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">

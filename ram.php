@@ -21,14 +21,14 @@
 				<div class="project-holder">
 					<!-- col of the page -->
 					<div class="col overlay building">
-						<img src="images\staff\ram\1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\ram\11.jpeg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/ram/ram1">1 группа</a></strong>
 							<span class="sub-title">С позолоченными контактами</span>
 						</div>
 					</div>
 					<div class="col overlay building">
-						<img src="images\staff\ram\2.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\ram\11.jpeg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/ram/ram2">2 группа</a></strong>
 							<span class="sub-title">С посеребренными контактами
