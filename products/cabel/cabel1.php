@@ -49,7 +49,7 @@
 											<span class="name"><a href="../../products/ram/ram1">Оперативная память
 1 группы
 С позолоченными контактами</a></span>
-											<strong class="price">1100 тг.</strong>
+											<strong class="price">1000 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>

@@ -47,7 +47,7 @@
 									<div class="txt-holder">
 										<div class="header">
 											<span class="name"><a href="../../products/pplat/pplat2">Электронные печатные платы 2 группы</a></span>
-											<strong class="price">1100 тг.</strong>
+											<strong class="price">1000 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
 											<li><a href="#" class="active"><i class="ti-star"></i></a></li>
