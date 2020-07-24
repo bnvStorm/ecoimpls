@@ -60,11 +60,11 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="#"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="pplat2"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="pplat2.html">Электронные печатные платы 2 группы</a></span>
+											<span class="name"><a href="pplat2">Электронные печатные платы 2 группы</a></span>
 											<strong class="price">1000 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
@@ -78,11 +78,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="pplat3.html"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="pplat3"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="">Электронные печатные платы 3 группы</a></span>
+											<span class="name"><a href="pplat3">Электронные печатные платы 3 группы</a></span>
 											<strong class="price">500 тг.</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
@@ -96,11 +96,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="pplat4.html"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="pplat4"><img src="../../images/staff/pplat/preview/pimage1.jpg" alt="image description" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="#">Электронные печатные платы 4 группы</a></span>
+											<span class="name"><a href="pplat4">Электронные печатные платы 4 группы</a></span>
 											<strong class="price">100 тг. за 1кг</strong>
 										</div>
 										<ul class="list-unstyled rating-list">
