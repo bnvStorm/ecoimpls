@@ -42,7 +42,7 @@
 							</li>
 							<li>
 								<span class="icon ti-headphone-alt"></span>
-								<a href="tel:+77082501252">+77082501252</a>
+								<a href="tel:+7(701)292 68 98">+7 (701) 292 68 98</a>
 							</li>
 						</ul>
 						<h3>ЧАСЫ РАБОТЫ</h3>
