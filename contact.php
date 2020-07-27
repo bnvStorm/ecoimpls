@@ -53,7 +53,7 @@
 						</ul>
 					</div>
 					<div class="col-xs-12 col-sm-8">
-						<h3 class="marg">Наппишите нам</h3>
+						<h3 class="marg">Напишите нам</h3>
 						<p>Мы просмотрим ваше сообщение как можно быстрее!</p>
 						<!-- Contact Form of the page -->
 						<form action="#" class="contact-form">
