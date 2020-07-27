@@ -23,13 +23,13 @@
 									
 									<a href="tel:+77012926898">+7 (701) 292 68 98</a>
 								</li>	
-								Диспетчерская:							
+					<!-- 			Диспетчерская:							
 								<li>
 
 									<span class="icon ti-headphone-alt"></span>
 									
 									<a href="tel:+7 747 889 1907">+7 747 889 1907</a>
-								</li>
+								</li> -->
 							</ul>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3 foot-mob">
