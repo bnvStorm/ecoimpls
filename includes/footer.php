@@ -21,7 +21,7 @@
 									
 									<span class="icon ti-headphone-alt"></span>
 									
-									<a href="tel:+77082501252">+7 (708) 250 1252</a>
+									<a href="tel:+77012926898">+7 (701) 292 68 98</a>
 								</li>	
 								Диспетчерская:							
 								<li>

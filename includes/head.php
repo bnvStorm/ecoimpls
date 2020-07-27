@@ -67,7 +67,7 @@
 							
 							<!-- contact list of the page -->
 							<ul class="contact-list list-unstyled">
-								<li><i class="icon icon_phone"></i> <a href="tel:+77082501252">+7 (708) 250 1252</a></li>
+								<li><i class="icon icon_phone"></i> <a href="tel:+77012926898">+7 (701) 292 68 98</a></li>
 								<li><i class="icon icon_mail"></i> <a href="mailto:too_ecoimpulse@mail.ru">too_ecoimpulse@mail.ru</a></li>
 							</ul>
 									<!-- socail network of the page -->
