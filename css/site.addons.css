@@ -97,6 +97,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	font-size: 48px;
 }
 @media(max-width: 480px){
+	.main-slider .slide h1{
+		margin-bottom: 0;
+	}
 	.mini-slogan{
 	font-size: 28px;
 }

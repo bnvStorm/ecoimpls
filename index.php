@@ -11,7 +11,7 @@
 					<div class="caption text-center">
 						<span class="title text-uppercase">Экоимпульс</span>
 						<h1 class="text-uppercase">Каждая капсула на вес золота</h1>
-						<span class="mini-slogan" style="font-size:48px;">Прием плат в Караганде<br> Дорого!</span>
+						<span class="mini-slogan">Прием плат в Караганде<br> Дорого!</span>
 						<div class="btn-holder">
 							<a href="#" class="btn active text-center text-uppercase">Кнопка (ссылка)</a>
 							<a href="#" class="btn text-center text-uppercase">Кнопка (ссылка) 2</a>
