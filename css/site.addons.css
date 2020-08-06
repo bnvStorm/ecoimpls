@@ -93,7 +93,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 #footer .socail-network a{
 	color:#fff;
 }
+.mini-slogan{
+	font-size: 48px;
+}
 @media(max-width: 480px){
+	.mini-slogan{
+	font-size: 28px;
+}
 	body.nav-active{
 		overflow: hidden;
 	}

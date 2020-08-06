@@ -71,10 +71,10 @@
 								<li><i class="icon icon_mail"></i> <a href="mailto:too_ecoimpulse@mail.ru">too_ecoimpulse@mail.ru</a></li>
 							</ul>
 									<!-- socail network of the page -->
-<!-- 							<ul class="socail-network list-unstyled">
+							<ul class="socail-network list-unstyled">
 								<li><a href="#" class="social_facebook"></a></li>
 								<li><a href="#" class="fa fa-instagram"></a></li>
-							</ul> -->
+							</ul>
 						</div>
 						</div>
 					</div>
