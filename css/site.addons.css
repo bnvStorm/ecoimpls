@@ -1,7 +1,7 @@
 *{
 	font-family: 'Didact Gothic', sans-serif;
 }
-.main-slider .slide .title,.btn-holder,.socail-network,.mobile_menu{
+.main-slider .slide .title,.btn-holder,.mobile_menu{
 	display: none;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
@@ -97,6 +97,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 	font-size: 48px;
 }
 @media(max-width: 480px){
+	.socail-network{
+		    z-index: 9999;
+	}
 	.main-slider .slide h1{
 		margin-bottom: 0;
 	}

@@ -10,7 +10,7 @@
 				<div class="slide bg-full overlay" style="background-image: url('images/head/head1.jpg');">
 					<div class="caption text-center">
 						<span class="title text-uppercase">Экоимпульс</span>
-						<h1 class="text-uppercase">Каждая капсула на вес золота</h1>
+						<h1 class="text-uppercase">Каждая гранула на вес золота</h1>
 						<span class="mini-slogan">Прием плат в Караганде<br> Дорого!</span>
 						<div class="btn-holder">
 							<a href="#" class="btn active text-center text-uppercase">Кнопка (ссылка)</a>
