@@ -72,9 +72,9 @@
 							</ul>
 									<!-- socail network of the page -->
 							<ul class="socail-network list-unstyled">
-								<li><a href="https://www.facebook.com/profile.php?id=100053491083639" class="social_facebook"></a></li>
-								<li><a href="https://www.instagram.com/ecoimpulse/" class="fa fa-instagram"></a></li>
-								<li><a href="https://ok.ru/profile/581942260407" ><img style="display:block;width: 20px;height: 20px;" src="../images/ok.png" alt=""></a></li>
+								<li><a target="_blank" href="https://www.facebook.com/profile.php?id=100053491083639" class="social_facebook"></a></li>
+								<li><a target="_blank" href="https://www.instagram.com/ecoimpulse/" class="fa fa-instagram"></a></li>
+								<li><a target="_blank" href="https://ok.ru/profile/581942260407" ><img style="display:block;width: 20px;height: 20px;" src="../images/ok.png" alt=""></a></li>
 							</ul>
 						</div>
 						</div>
