@@ -9,7 +9,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 text-center">
-							<h1 class="main-heading3 text-uppercase">Электронные печатные платы</h1>
+							<h1 class="main-heading3 text-uppercase">Жесткие диски (HDD)</h1>
 						</div>
 					</div>
 				</div>
