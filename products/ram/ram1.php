@@ -9,7 +9,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 text-center">
-							<h1 class="main-heading3 text-uppercase">Оператвная память</h1>
+							<h1 class="main-heading3 text-uppercase">Оперативная память</h1>
 						</div>
 					</div>
 				</div>
