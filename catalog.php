@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Каталог техники которую мы принимаем к утилизации - Экоимпульс утилизация</title>
+	<meta name="description" content="Каталог оборудования к приему с ценами в Караганде. Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 <?php include 'includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">

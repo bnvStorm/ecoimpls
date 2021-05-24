@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием приводов гибких дисков (дискет) Караганда - Экоимпульс утилизация</title>
+	<meta name="description" content="Утилизируем приводы гибких дисков в Караганде. Дорого! Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
@@ -9,7 +11,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 text-center">
-							<h1 class="main-heading3 text-uppercase">Приводы</h1>
+							<h1 class="main-heading3 text-uppercase">Приводы гибких дисков (дискет)</h1>
 						</div>
 					</div>
 				</div>
@@ -20,7 +22,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/rwcd/2.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/rwcd/2.jpg" alt="Приводы гибких дисков (FDD)" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Приводы гибких дисков (FDD)</h4>

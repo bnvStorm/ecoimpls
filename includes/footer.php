@@ -49,14 +49,15 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 foot-mob">
-							<p>Копирайт © 2020 Экоимпульс. Все права защищены</p>
+							<p>Копирайт © 2021 Экоимпульс. Все права защищены</p>
 						</div>
 						<div class="col-xs-12 col-sm-6">
 							<!-- Socail network of the page -->
-					<!-- 		<ul class="socail-network list-unstyled">
-								<li><a href="#" class="social_facebook"></a></li>
-								<li><a href="#" class="fa fa-instagram"></a></li>
-							</ul> -->
+							<ul class="socail-network list-unstyled">
+								<!-- <li><a href="#" class="social_facebook"></a></li>
+								<li><a href="#" class="fa fa-instagram"></a></li> -->
+								<h3>Прием техники и оборудования в Караганде и Казахстане</h3>
+							</ul>
 						</div>
 					</div>
 				</div>

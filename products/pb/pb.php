@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием блоков питания в Караганде и их утилизация  - Экоимпульс Караганда</title>
+	<meta name="description" content="Принимаем и утилизируем компьютерные блоки питания с кабелями и корпусом в Караганде. Дорого! Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
@@ -20,7 +22,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/block/1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/block/1.jpg" alt="прием и утилизация блоков питания от компьютеров" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Компьютерные блоки питания</h4>

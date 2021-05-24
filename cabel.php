@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием проводов и кабелей в Караганде - Экоимпульс утилизация</title>
+	<meta name="description" content="Примем на утилизацию кабеля и провода из меди и алюминия. Дорого! Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 <?php include 'includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
@@ -20,7 +22,7 @@
 				<div class="project-holder">
 					<!-- col of the page -->
 					<div class="col overlay building">
-						<img src="images\staff\trash\1.jpg" alt="image description" class="img-responsive" style="width:480px;height: 320px;">
+						<img src="images\staff\trash\1.jpg" alt="Прием кабелей и проводов" class="img-responsive" style="width:480px;height: 320px;">
 						<div class="over text-center">
 							<strong class="title text-uppercase"><a href="products/cabel/cabel1">Медные Кабеля</a></strong>
 							<!-- <span class="sub-title">С позолоченными контактами</span> -->

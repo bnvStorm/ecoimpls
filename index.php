@@ -30,7 +30,7 @@
 						<div class="col-xs-12 col-sm-6 col-md-6">
 							<!-- service of the page -->
 							<div class="service overlay">
-								<img src="images/1.jpg" alt="image description" class="img-responsive">
+								<img src="images/1.jpg" alt="ст. 293 Экологического Кодекса РК" class="img-responsive">
 								<div class="over text-center">
 									<h2 class="text-uppercase">Важно знать</h2>
 									<p>- В соответствие с п.2-1 ст. 293 Экологического Кодекса РК, «опасные составляющие коммунальных отходов: электронное и электрические оборудование, и прочие опасные компоненты должны собираться раздельно и передаваться на утилизацию, переработку специализированным предприятиям».
@@ -42,7 +42,7 @@
 						<div class="col-xs-12 col-sm-6 col-md-6">
 							<!-- service of the page -->
 							<div class="service overlay">
-								<img src="images/2.jpg" alt="image description" class="img-responsive">
+								<img src="images/2.jpg" alt="ст. 301 Экологического Кодекса РК" class="img-responsive">
 								<div class="over text-center">
 									<h2 class="text-uppercase">Важно знать</h2>
 									<p>- Согласно требованиям ст.301 Экологического Кодекса РК, на полигоны твердо-бытовых отходов запрещено принимать отработанное электронное и электрическое оборудование, лом цветных и черных металлов.

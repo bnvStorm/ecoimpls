@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием трансформаторов и их утилизация в Караганде - Экоимпульс Караганда</title>
+	<meta name="description" content="Утилизируем любые трансформаторы в Караганде: высоковольтные, понижающие, повышаюшие - одним словом - любые. Дорого! Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
@@ -20,7 +22,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/transform/1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/transform/1.jpg" alt="прием и утилизация трансформаторов Казахстан" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Трансформаторы (Любые)</h4>
@@ -33,6 +35,7 @@
 									<li><a href="#" class="active"><i class="ti-star"></i></a></li>
 								</ul>
 								<p>Трансформаторы (Любые)</p>
+								<p>Примем к утилизации любые виды трансформаторов. Старые и новые, рабочие и вышедшие из строя, повышающие и понижающие. Из любого оборудования</p>
 							</div>
 						</div>
 					</div>
@@ -42,7 +45,7 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/ram/ram1"><img src="../../images/staff/ram/1.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/ram/ram1"><img src="../../images/staff/ram/1.jpg" alt="утилизация оперативной памяти Караганда" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">

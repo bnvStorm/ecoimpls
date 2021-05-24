@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>404 страница не найдена - Экоимпульс утилизация</title>
+	<meta name="description" content="Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include 'includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">

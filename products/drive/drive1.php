@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием CD-DVD приводов компакт-дисков в Караганде - Экоимпульс утилизация</title>
+	<meta name="description" content="Утилизируем приводы CD-DVD в Караганде. Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
@@ -20,7 +22,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/rwcd/1.jpg" alt="image description" class="img-responsive">
+								<img src="../../images/staff/rwcd/1.jpg" alt="Утилизация приводов CD-DVD" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Приводы компакт-дисков 1 группы</h4>

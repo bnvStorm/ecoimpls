@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Утилизация и прием плат мобильных телефонов - Экоимпульс Караганда</title>
+	<meta name="description" content="Принимаем и перерабатываем платы мобильных кнопочных телефонов. Дорого! Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
+	
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">

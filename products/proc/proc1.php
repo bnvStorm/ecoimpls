@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием процессоров в Караганде на утилизацию - Экоимпульс Караганда</title>
+	<meta name="description" content="Утилизируем принимаемые процессоры с керамической крышкой в Караганде. Дорого! Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
@@ -9,7 +11,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 text-center">
-							<h1 class="main-heading3 text-uppercase">Процессоры</h1>
+							<h1 class="main-heading3 text-uppercase">Процессоры керамика</h1>
 						</div>
 					</div>
 				</div>
@@ -20,7 +22,7 @@
 					<div class="col-xs-12 col-md-9">
 						<div class="holder">
 							<div class="img-holder">
-								<img src="../../images/staff/proc/1.png" alt="image description" class="img-responsive">
+								<img src="../../images/staff/proc/1.png" alt="прием процессоров с керамической крышкой" class="img-responsive">
 							</div>
 							<div class="txt-holder">
 								<h4>Процессор 1 группы <br>Керамика</h4>
@@ -43,7 +45,7 @@
 							<ul class="list-unstyled pro-list">
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc1"><img src="../../images/staff/proc/1.png" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc1"><img src="../../images/staff/proc/1.png" alt="утилизация процессоров 1й группы" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
@@ -63,11 +65,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc2"><img src="../../images/staff/proc/2-2.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc2"><img src="../../images/staff/proc/2-2.jpg" alt="прием процессоров на утилизацию" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/proc/proc1">Процессор 
+											<span class="name"><a href="../../products/proc/proc2">Процессор 
 2 группы
 Пластик</a></span>
 											<strong class="price">1500 тг.</strong>
@@ -83,11 +85,11 @@
 								</li>
 								<li>
 									<div class="img-holder">
-										<a href="../../products/proc/proc3"><img src="../../images/staff/proc/3-3.jpg" alt="image description" class="img-responsive"></a>
+										<a href="../../products/proc/proc3"><img src="../../images/staff/proc/3-3.jpg" alt="утилизация процессоров с металлической крышкой" class="img-responsive"></a>
 									</div>
 									<div class="txt-holder">
 										<div class="header">
-											<span class="name"><a href="../../products/proc/proc1">Процессор
+											<span class="name"><a href="../../products/proc/proc3">Процессор
 3 группы
 С металлической крышкой</a></span>
 											<strong class="price">1000 тг. за 1кг</strong>

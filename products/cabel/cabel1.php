@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием меди дорого Караганда Казахстан - Экоимпульс</title>
+	<meta name="description" content="Принимаем на утилизацию медные провода в Караганде. Дорого! Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include '../../includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
@@ -9,7 +11,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 text-center">
-							<h1 class="main-heading3 text-uppercase">Отходы Кабельной Продукции</h1>
+							<h1 class="main-heading3 text-uppercase">Прием медных проводов</h1>
 						</div>
 					</div>
 				</div>

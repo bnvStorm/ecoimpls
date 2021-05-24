@@ -2,6 +2,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием оперативной памяти дорого в Караганде и Казахстане - Экоимпульс</title>
+	<meta name="description" content="Утилизация и прием оперативной памяти (озу, ram, ddr2, ddr3, ddr4) в Караганде. Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 <?php include 'includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
