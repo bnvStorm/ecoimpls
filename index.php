@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Экоимпульс - прием плат в Караганде и Казахстане дорого</title>
+	<meta name="description" content="Принимаем платы и оргтехнику на утилизацию в Караганде и Казахстане. Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
 	<?php include 'includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">

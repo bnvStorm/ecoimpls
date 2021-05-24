@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Прием и утилизация CD приводов а также приводов гибких дисков - Экоимпульс</title>
+	<meta name="description" content="Принимаем CD приводы и приводы гибких дисков на утилизацию в Караганде и Казахстане. Прием и утилизация CD-DVD приводов от пк и прочей техники по лучшим ценам в Казахстане">
+	<?php include 'includes/head.php';?>
 <?php include 'includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">

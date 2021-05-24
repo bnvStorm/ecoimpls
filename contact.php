@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<title>Контакты организации по приему вторсырья и компьютерной техники - Экоимпульс</title>
+	<meta name="description" content="Контакты, телефоны, адреса организации по приему и утилизациии компьютерного оборудования. Прием и утилизация компьютерной и прочей техники по лучшим ценам в Казахстане">
+	<?php include 'includes/head.php';?>
 <?php include 'includes/head.php';?>
 		<!-- main of the page -->
 		<main id="main">
